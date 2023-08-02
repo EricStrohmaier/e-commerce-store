@@ -1,10 +1,7 @@
 # Awesome Ecommerce App
-
-![App Screenshot](/ecommerce-app/ecommerce-app/public/screenshot.png)
-
 ## Description
 
-THis Ecommerce App is a Next.js 13 ecommerce application that empowers users to shop for their favorite products with ease. It leverages the power of Stripe for secure checkout, Sanity for content management, and offers an array of themes for a visually stunning experience. With fully implemented search and filter functionalities, finding the perfect product is just a few clicks away.
+This Ecommerce App is a Next.js 13 ecommerce application that easily empowers users to shop for their favourite products. It leverages the power of Stripe for secure checkout, Sanity for content management, and offers an array of themes for a visually stunning experience. With fully implemented search and filter functionalities, finding the perfect product is just a few clicks away.
 
 ## Features
 
